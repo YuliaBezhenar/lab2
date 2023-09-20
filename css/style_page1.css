@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Namu";    
+    src: url("font/NAMU-Pro.woff") format('woff');
+  }
+
+body {
+    background-color: rgb(207, 207, 207);
+    color: rgb(57, 57, 57);
+    font-family: Namu;
+}
+
+a {
+    color: rgb(99, 77, 59);
+}
+
+h1, h2 {
+    text-align: center;
+}
