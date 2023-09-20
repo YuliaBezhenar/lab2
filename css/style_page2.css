@@ -16,7 +16,9 @@ a {
 h1, h2 {
     text-align: center;
 }
-
+p {
+    font-size: 18px;
+}
 .p_gray-semibold{
     color: gray;
     font-weight: 700;
